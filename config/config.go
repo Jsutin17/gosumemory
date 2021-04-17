@@ -36,7 +36,7 @@ serverip = 127.0.0.1:24050
 cors = false
 		
 [GameOverlay] ; https://github.com/l3lackShark/gosumemory/wiki/GameOverlay
-enabled = false
+enabled = true
 gameWidth = 1920
 gameHeight = 1080
 overlayURL = http://localhost:24050/InGame2
